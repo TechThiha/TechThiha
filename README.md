@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm **HenOps** (Thiha)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+**HenOps**+(Thiha))](https://git.io/typing-svg)
 
 🚀 **DevOps Engineer** with a passion for automation and cloud technologies, working with Kubernetes on both on-premise and cloud environments, turning ideas into scalable and efficient solutions.
 
@@ -8,8 +8,16 @@
 
 ### 📈 GitHub Stats
 <div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techthiha&" alt="techthiha" /></p>
   <img src="https://github-readme-stats.vercel.app/api?username=TechThiha&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TechThiha&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" alt="Top Languages" />
+  <div align="center">
+  <br>
+  <p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/Techthiha/count.svg" /></p> 
+  </div>
+  <br>
+
 </div>
 
 ---
